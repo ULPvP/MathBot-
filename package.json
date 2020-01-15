@@ -1,0 +1,15 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "ULBear",
+  "license": "ISC",
+  "dependencies": {
+    "algebra.js": "^0.2.6",
+    "botkit-discord": "0.0.6",
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "mathjs": "^6.5.0"
+  }
+}
