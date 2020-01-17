@@ -1,4 +1,4 @@
 {
-"prefix": "ul!",
-"token": "NjUzMjAwOTk3MjYyMjk1MDQw.XhsXRA.VsKwZ-z7uB4Y214RCDhl5eOK-1E"    
+"prefix": process.env.PREFIX,
+"token": process.env.TOKEN    
 }
